@@ -300,14 +300,14 @@ body {
     }
 }
 
-@media (max-width: 900px) {
+@media (max-width: 768px) {
     .subtitle {
         font-size: 5vw
     }
 
     body {
         background-image: url('images/ceo.jpg');
-        background-size: 125%;
+        background-size: 550px;
     }
 
     .second {
